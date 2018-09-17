@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mybatis1" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc1" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc2" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc3" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc4" />
     <file type="web" url="file://$PROJECT_DIR$/springmvc6" />
+    <file type="web" url="file://$PROJECT_DIR$/ssm1" />
     <type id="Spring" />
   </component>
   <component name="MavenProjectsManager">
@@ -15,6 +17,8 @@
         <option value="$PROJECT_DIR$/springmvc2/target/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc4/pom.xml" />
         <option value="$PROJECT_DIR$/springmvc6/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis1/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm1/pom.xml" />
       </list>
     </option>
   </component>
