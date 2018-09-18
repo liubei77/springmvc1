@@ -12,6 +12,7 @@
         <module name="springmvc4 (1)" />
         <module name="springmvc6" />
         <module name="ssm1" />
+        <module name="ssm2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="springmvc4 (1)" target="1.5" />
       <module name="springmvc6" target="1.7" />
       <module name="ssm1" target="1.7" />
+      <module name="ssm2" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
